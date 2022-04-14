@@ -1,6 +1,6 @@
 # Big Ideas Final Project
 
-Team Name: 
+Team Name: The Golden Retrievers
 
 Team Members
 Claire Emch - cee32@pitt.edu
