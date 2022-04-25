@@ -2,6 +2,8 @@
 
 Team Name: The Golden Retrievers
 
+Canvas Group #45
+
 Team Members
 Claire Emch - cee32@pitt.edu
 Maya Blackburn - meb333@pitt.edu
